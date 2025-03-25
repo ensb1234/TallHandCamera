@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Tall Hand Camera</string>
+    <string name="textView_pre">点击相机画面可关闭屏幕。\n再次点击可打开屏幕。\n请在pc端访问以下地址：\n（如果换了网络，请点击文字刷新）</string>
+    <string name="scanningMode">轮廓扫描模式</string>
+    <string name="modelWH">模板图宽高</string>
+    <string name="targetXY">目标位置</string>
+    <string name="targetWH">目标宽高</string>
+    <string name="modelHash">模板图哈希</string>
+    <string name="blockSize">二值化扫描块大小</string>
+    <string name="C">C值</string>
+    <string name="hashSensitive">相似图检测容忍度</string>
+    <string name="minBlackValue">最小涂黑值</string>
+</resources>
